@@ -1,0 +1,11 @@
+listing_id,building,district,area_sqft,asking_price_aed,annual_rent_comp_aed,annual_service_charge_aed,trakheesi_permit,notes
+JVC-001,Fortunato,JVC,980,949620,88200,15080,7118902114,Stage 1 & 3 benchmark
+JVC-002,Fortunato,JVC,980,949620,88200,15080,7118902114,Duplicate portal entry
+JVC-003,Aria,JVC,1050,1080450,94500,15620,7120458891,Stage 1 & 3 benchmark
+JVC-004,Ghalia Tower,District 18,1129,1220000,101610,17430,7117805799,Vacant on transfer; Damac-serviced
+JVC-005,Ghalia Tower,District 18,1129,1220000,101610,17430,7117805799,Duplicate portal entry
+JVC-006,Q Gardens Lofts,District 13,464,545000,41760,6880,71426359489,Low-ticket entry near Circle Mall
+JVC-007,Plaza Residences,JVC,1150,1404150,103500,17850,7119834410,Stage 1 & 3 benchmark
+JVC-008,RA1N Residence,District 12,886,1100000,79740,13740,71500643100,Completed 2025; Motivated Seller (OP)
+JVC-009,Unverified Tower,District 10,850,920000,76500,14000,,Missing Trakheesi permit (Stage 2 reject)
+JVC-010,Market Baseline Apt,District 14,900,1314000,81000,14400,7130049122,At market mean AED 1460/sqft (Stage 1 reject)
